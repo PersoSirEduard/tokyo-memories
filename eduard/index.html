@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+  <title>Eduard · preview</title>
+  <link rel="icon" type="image/svg+xml" href="../assets/logo.svg">
+  <link href="https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/preview.css">
+  <script type="importmap">
+    { "imports": { "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js", "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/" } }
+  </script>
+</head>
+<body data-who="him">
+  <canvas id="c"></canvas>
+  <header><h1>Eduard</h1><nav><a href="../yulia/">Yulia</a><a href="../eduard/">Eduard</a><a href="../">game</a></nav></header>
+  <footer>
+    <div id="poses"></div>
+    <div class="toggles">
+      <label><input type="checkbox" id="stop" checked> stop-motion</label>
+      <label><input type="checkbox" id="wire"> wireframe</label>
+      <label><input type="checkbox" id="spin"> spin</label>
+    </div>
+  </footer>
+  <script type="module" src="../js/preview.js"></script>
+</body>
+</html>

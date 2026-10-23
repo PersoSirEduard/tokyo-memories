@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 170" fill="#1d1b26">
+  <!-- Seen from behind, walking off together: her long hair and skirt, his wavy hair. -->
+  <ellipse cx="100" cy="158" rx="70" ry="5" opacity=".18"/>
+
+  <!-- Her -->
+  <g transform="rotate(7 72 56)">
+    <circle cx="72" cy="40" r="13"/>
+    <path d="M58 40 C57 21 87 21 86 40 L89 88 C80 92 64 92 55 88 Z"/>
+  </g>
+  <path d="M64 54 Q72 51 80 54 Q86 56 85 62 L85 86 L59 86 L59 62 Q58 56 64 54 Z"/>
+  <path d="M59 84 L85 84 L93 125 L51 125 Z"/>
+  <path d="M62 123 L69 123 L68 151 L62 151 Z"/>
+  <path d="M75 123 L82 123 L82 151 L76 151 Z"/>
+  <path d="M60 149 L69 149 L69 154 L58 154 Z"/>
+  <path d="M75 149 L84 149 L86 154 L75 154 Z"/>
+  <path d="M61 58 L55 59 L50 98 L56 99 Z"/>
+  <path d="M83 58 L89 58 L104 96 L98 100 Z"/>
+
+  <!-- Him -->
+  <g transform="rotate(-6 132 44)">
+    <circle cx="132" cy="27" r="14"/>
+    <circle cx="121" cy="21" r="6.5"/>
+    <circle cx="127" cy="14" r="7"/>
+    <circle cx="136" cy="13" r="7"/>
+    <circle cx="143" cy="20" r="6.5"/>
+    <circle cx="131" cy="17" r="7"/>
+  </g>
+  <path d="M127 38 L137 38 L137 47 L127 47 Z"/>
+  <path d="M118 43 Q132 39 146 43 Q153 45 152 54 L148 97 L116 97 L112 54 Q111 45 118 43 Z"/>
+  <path d="M117 95 L131 95 L129 153 L119 153 Z"/>
+  <path d="M133 95 L147 95 L144 153 L135 153 Z"/>
+  <path d="M117 150 L129 150 L130 156 L114 156 Z"/>
+  <path d="M135 150 L145 150 L148 156 L134 156 Z"/>
+  <path d="M114 49 L108 50 L99 98 L105 100 Z"/>
+  <path d="M150 49 L156 50 L160 97 L154 98 Z"/>
+
+  <!-- Joined hands and a little heart -->
+  <circle cx="101.5" cy="98.5" r="5.5"/>
+  <path d="M101 66 C97 60 89 63 93 70 L101 77 L109 70 C113 63 105 60 101 66 Z" fill="#d9475a"/>
+</svg>
